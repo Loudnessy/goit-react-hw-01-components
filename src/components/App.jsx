@@ -1,6 +1,5 @@
 import { Profile } from "./firstTask/Profile/Profile";
 import user from "./firstTask/user"
-import { UserProfile } from "./firstTask/UserProfile/UserProfile";
 import { GlobalStyle } from "./GlobalStyle";
 import { Statistics } from "./secondTask/Statistics/Statistics";
 import stat from "./secondTask/data"
